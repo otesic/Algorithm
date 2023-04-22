@@ -1,9 +1,6 @@
-<details>
-<summary>DFS 선행</summary>
+# DFS 선행
 
-  <div markdown="1">
-
-# 대표적인 그래프 탐색 알고리즘으로써 DFS / BFS가있다.
+## 대표적인 그래프 탐색 알고리즘으로써 DFS / BFS가있다.
 
 먼저 DFS알아보기전에 알아야할 스택, 큐가 있다.
 
